@@ -1,5 +1,5 @@
 package git
 
 class hello {
-    int n = 5
+    int n = 6
 }
